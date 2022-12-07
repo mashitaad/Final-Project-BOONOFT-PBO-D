@@ -14,3 +14,6 @@ kali sang bajak laut dapat mengalahkan seorang musuh, maka ia akan menempati lev
 
 ## Manfaat Game
 > Manfaat dari pembangunan aplikasi game petualangan “Royal Valley” ini, sama halnya sebagaimana fungsi utama dari kebanyakan game yaitu menjadi sarana hiburan dikala senggang dan meningkatkan perkembangan otak manusia karena pada game ini akan dihadapkan dengan berbagai rintangan dan player dituntut untuk memecahkan sedemikian rupa.
+
+### Notes
+Buka setiap branch untuk mengetahui perkembangan pembuatan
