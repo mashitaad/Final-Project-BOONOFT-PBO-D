@@ -4,6 +4,8 @@
 
 ### Cuplikan fitur yang kami buat
 HealthBar pada monster : 
+
 ![Screenshot (531)](https://user-images.githubusercontent.com/87978863/206144238-c889c51b-4712-4545-b211-68206b635a11.png)
+
 ### Notes
 Pergerakan bajak laut dalam mengarahkan pedang belum sempurna 100% 
