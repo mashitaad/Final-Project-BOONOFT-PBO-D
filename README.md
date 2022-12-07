@@ -1,4 +1,4 @@
-# FP_PBO_d
+# FP_PBO_D
 Final Project Pemrograman Berorientasi Objek D
 
 ## Kelompok : BOONOFT
