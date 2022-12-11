@@ -1,19 +1,20 @@
-# FP_PBO_D
-Final Project Pemrograman Berorientasi Objek D
+## Fitur yang telah dibuat pada progress_5
+> 1. Monster yang memberi perlawanan dengan menyemburkan api
+> 2. Setiap bajak laut dapat mengalahkan monster, monster akan berubah menjadi sebuah heart (nyawa)
+> 3. Bajak laut dapat menebang pohon
 
-## Kelompok : BOONOFT
-| Name           | NRP        |
-| ---            | ---        |
-| Melanie Sayyidina Sabrina Refman | 5025211029 |
-| Mashita Dewi   | 5025211036 |
+## Cuplikan fitur yang kami buat
+> Monster menyembur api
 
-## Deskripsi Game
-> Royal Valley adalah sebuah game petualangan sederhana yang terinspirasi dari game “The Legend of Zelda” dan “Harvest Moon”. Game tersebut berisi tentang petualangan seorang bajak laut di daratan dengan mengalahkan musuh - musuhnya yang memiliki tingkat kekuatan yang beragam untuk mendapatkan sebuah harta karun di daratan. Dengan melewati hutan dengan banyak pepohonan sang bajak laut diminta untuk menebang seluruh pepohonan tersebut dengan kapaknya
-sehingga membentuk sebuah jalan agar dapat mencapai toko penukaran senjata, pada toko tersebut tidak hanya tersedia penukaran senjata tetapi sang bajak laut dapat membeli berbagai jenis senjata yang tersedia dengan sejumlah koin yang ia miliki. Senjata itu nantinya digunakan untuk menyerang musuh - musuhnya. Setiap
-kali sang bajak laut dapat mengalahkan seorang musuh, maka ia akan menempati level berikutnya, ia juga dapat berkomunikasi dengan seorang pribumi di daratan tersebut untuk mendapatkan beberapa petunjuk mencapai harta karun tersebut
+![Screenshot (544)](https://user-images.githubusercontent.com/87978863/206901830-89ed0634-675d-4277-85a9-4240207d9d9a.png)
 
-## Manfaat Game
-> Manfaat dari pembangunan aplikasi game petualangan “Royal Valley” ini, sama halnya sebagaimana fungsi utama dari kebanyakan game yaitu menjadi sarana hiburan dikala senggang dan meningkatkan perkembangan otak manusia karena pada game ini akan dihadapkan dengan berbagai rintangan dan player dituntut untuk memecahkan sedemikian rupa.
+> Monster berubah menjadi heart ketika mati
+
+![Screenshot (567)](https://user-images.githubusercontent.com/87978863/206901822-eb2bfe62-e37e-4b0a-8781-45e0b9ad8125.png)
+
+> Penebangan pohon
+
+![Screenshot (568)](https://user-images.githubusercontent.com/87978863/206901838-d0734f62-d9f8-43d4-b246-10a62b2319e4.png)
 
 ### Notes
-Buka setiap branch untuk mengetahui perkembangan pembuatan game
+Pergerakan bajak laut dalam mengarahkan pedang belum sempurna 100% 
