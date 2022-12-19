@@ -5,11 +5,9 @@
 ## Cuplikan fitur yang kami buat
 > HealthBar pada monster : 
 
-![Screenshot (531)](https://user-images.githubusercontent.com/87978863/206144238-c889c51b-4712-4545-b211-68206b635a11.png)
+![Screenshot (669)](https://user-images.githubusercontent.com/87978863/208450106-c4a143ea-3ce2-4796-a15d-c6c1f1997c04.png)
 
 > Status pada karakter bajak laut :
-
-![Screenshot (530)](https://user-images.githubusercontent.com/87978863/206145124-1431c6cb-48ed-4ccb-ab60-bd455cc821c1.png)
 
 ### Notes
 Pergerakan bajak laut dalam mengarahkan pedang belum sempurna 100% 
