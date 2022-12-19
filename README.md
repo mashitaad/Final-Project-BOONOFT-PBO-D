@@ -5,7 +5,7 @@
 ## Cuplikan fitur yang kami buat
 > HealthBar pada monster : 
 
-![Screenshot (669)](https://user-images.githubusercontent.com/87978863/208450106-c4a143ea-3ce2-4796-a15d-c6c1f1997c04.png)
+![Screenshot (674)](https://user-images.githubusercontent.com/87978863/208450363-e5fdfa63-a8d8-473b-ad06-382079e103e5.png)
 
 > Status pada karakter bajak laut :
 
