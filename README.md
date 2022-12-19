@@ -6,7 +6,7 @@
 ## Cuplikan fitur yang kami buat
 > Monster menyembur api
 
-![Screenshot (544)](https://user-images.githubusercontent.com/87978863/206901830-89ed0634-675d-4277-85a9-4240207d9d9a.png)
+![Screenshot (666)](https://user-images.githubusercontent.com/87978863/208448451-446b802a-8271-423d-819b-2dc0eadaa25d.png)
 
 > Monster berubah menjadi heart ketika mati
 
