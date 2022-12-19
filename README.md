@@ -17,5 +17,4 @@
 ![Screenshot (670)](https://user-images.githubusercontent.com/87978863/208449068-806cd331-cf91-4bb7-a11b-c3c90bcd3d28.png)
 
 ### Notes
-1. Pergerakan bajak laut dalam mengarahkan pedang dan kapak belum sempurna 100% 
-2. Kami tidak memberi file res dikarenakan limit memori
+1. Kami tidak memberi file res dikarenakan limit memori
