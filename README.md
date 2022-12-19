@@ -9,3 +9,6 @@ Final Project Pemrograman Berorientasi Objek D
 
 ## Deskripsi Game
 > Berikut adalah source code final project kami yang berjudul "Royal Valley"
+
+### Notes
+Kami tidak menampilkan isi pada titlescreen "ABOUT GAME" dikarenakan terhalang waktu
