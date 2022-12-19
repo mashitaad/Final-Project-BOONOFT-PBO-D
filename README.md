@@ -10,11 +10,11 @@
 
 > Monster berubah menjadi heart ketika mati
 
-![Screenshot (567)](https://user-images.githubusercontent.com/87978863/206901822-eb2bfe62-e37e-4b0a-8781-45e0b9ad8125.png)
+![Screenshot (668)](https://user-images.githubusercontent.com/87978863/208448946-172ebcf9-aa2b-4f74-8c02-07addb901724.png)
 
 > Penebangan pohon
 
-![Screenshot (568)](https://user-images.githubusercontent.com/87978863/206901838-d0734f62-d9f8-43d4-b246-10a62b2319e4.png)
+![Screenshot (670)](https://user-images.githubusercontent.com/87978863/208449068-806cd331-cf91-4bb7-a11b-c3c90bcd3d28.png)
 
 ### Notes
 1. Pergerakan bajak laut dalam mengarahkan pedang dan kapak belum sempurna 100% 
