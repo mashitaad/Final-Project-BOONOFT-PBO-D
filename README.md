@@ -23,6 +23,10 @@ Final Project Pemrograman Berorientasi Objek D
 
 ![Screenshot (666)](https://user-images.githubusercontent.com/87978863/209157450-443d9d74-8df2-4404-8746-bf8ecdde3cd8.png)
 
+> Ketika sang bajak laut mendekati monster maka ia akan menghilang sejenak sekita 1 s
+
+![Screenshot (667)](https://user-images.githubusercontent.com/87978863/209158819-6443f9b7-5c43-4890-99d1-7d0efc27b7f6.png)
+
 > Sang bajak laut menyerang monster mata
 
 ![Screenshot (673)](https://user-images.githubusercontent.com/87978863/209157583-194c4765-6755-4463-a1b5-0c4d8d7381ed.png)
@@ -34,6 +38,10 @@ Final Project Pemrograman Berorientasi Objek D
 > Karena membawa lentera, sang bajak laut dapat menggunakannya ketika hari menjelang gelap
 
 ![Screenshot (705)](https://user-images.githubusercontent.com/87978863/209158403-a2b2b245-b100-40c3-b1f1-4518ac76f9bc.png)
+
+> Bajak laut juga membawa kapak sehingga dia dapat memotong beberapa pohon kering untuk mencari jalan pintas
+
+![Screenshot (670)](https://user-images.githubusercontent.com/87978863/209159010-cef86e90-1284-41da-bda5-dc3e678b64ce.png)
 
 > Terinspirasi dari permainan "Harvest Moon" kami membuat toko jual beli kebutuhan mencari harta karun 
 
