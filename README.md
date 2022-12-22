@@ -85,4 +85,4 @@ Final Project Pemrograman Berorientasi Objek D
 
 
 ### Notes
-Kami tidak menampilkan isi pada titlescreen "ABOUT GAME" dikarenakan terhalang waktu
+1. Anda dapat melakukan uncomment pada package main --> Class AssetSetter --> method setObject untuk menampilkan pintu yang harus dibuka dengan kunci untuk menuju gua tambang emas
