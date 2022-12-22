@@ -31,6 +31,10 @@ Final Project Pemrograman Berorientasi Objek D
 
 ![Screenshot (668)](https://user-images.githubusercontent.com/87978863/209157671-ac30b7c5-9b66-4b53-8208-5e1b5252b308.png)
 
+> Karena membawa lentera, sang bajak laut dapat menggunakannya ketika hari menjelang gelap
+
+![Screenshot (705)](https://user-images.githubusercontent.com/87978863/209158403-a2b2b245-b100-40c3-b1f1-4518ac76f9bc.png)
+
 > Terinspirasi dari permainan "Harvest Moon" kami membuat toko jual beli kebutuhan mencari harta karun 
 
 ![Screenshot (694)](https://user-images.githubusercontent.com/87978863/209155553-7e0fef15-5dcf-4631-8cd2-4df47bdb5900.png)
